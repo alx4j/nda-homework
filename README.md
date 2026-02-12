@@ -13,7 +13,7 @@ mvn clean package
 
 ## Run
 ```bash
-java -jar target/homework-0.0.1-SNAPSHOT.jar
+java -jar target/homework.jar
 ```
 
 The app listens on port `8083`
